@@ -1,0 +1,6 @@
+{
+  "name": "Lottery Grid Maker",
+  "description": "Advanced lottery grid generator with dynamic numbers, custom Urdu text items, statistics, and image export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
